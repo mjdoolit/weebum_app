@@ -1,0 +1,10 @@
+[paths]
+default = https://mjdoolit@bitbucket.org/mjdoolit/weebum
+
+[ui]
+username = matthew doolittle <mjdoolit@gmail.com>
+
+[auth]
+weebum_app.prefix = bitbucket.org
+weebum_app.username = mjdoolit
+weebum_app.password = laurad00
